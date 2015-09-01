@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "main": "main.js",
   "dependencies": {
-    "ffi": "https://github.com/unbornchikken/node-ffi/tarball/pr-iojs3",
+    "ffi": "https://github.com/node-ffi/node-ffi/tarball/v2",
     "node-gyp": "^2.0.2"
   }
 }
